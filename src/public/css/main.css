@@ -1,0 +1,14 @@
+body {
+    background-color:#888;
+    color: purple;
+}
+#contentWrap{
+    display: none;
+}
+.error{
+    color:red;
+}
+.whisper{
+    color:gray;
+    font-style: italic;
+}
